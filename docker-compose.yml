@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  knalak1:
-    image: knalak1
-    build:
-      context: .
-      dockerfile: ./Dockerfile
